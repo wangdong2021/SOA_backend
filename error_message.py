@@ -1,0 +1,7 @@
+USERNAME_NOT_FOUND = "Username not found"
+WRONG_PASSWORD = "Wrong password"
+FORM_NOT_COMPLETE = "Please fill in all fields"
+USERNAME_EXISTS = "Username already exists"
+DOCUMENT_NOT_FOUND = "Document not found"
+QUESTION_NOT_FOUND = "Question not found"
+EXAM_NOT_FOUND = "Exam not found"
